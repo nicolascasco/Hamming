@@ -1,0 +1,9 @@
+C:\Users\Administrador.000\Desktop\PC\Hamming\bin\Debug\Hamming.exe.config
+C:\Users\Administrador.000\Desktop\PC\Hamming\bin\Debug\Hamming.exe
+C:\Users\Administrador.000\Desktop\PC\Hamming\bin\Debug\Hamming.pdb
+C:\Users\Administrador.000\Desktop\PC\Hamming\obj\Debug\Hamming.csprojResolveAssemblyReference.cache
+C:\Users\Administrador.000\Desktop\PC\Hamming\obj\Debug\Hamming.Properties.Resources.resources
+C:\Users\Administrador.000\Desktop\PC\Hamming\obj\Debug\Hamming.csproj.GenerateResource.Cache
+C:\Users\Administrador.000\Desktop\PC\Hamming\obj\Debug\Hamming.exe
+C:\Users\Administrador.000\Desktop\PC\Hamming\obj\Debug\Hamming.pdb
+C:\Users\Administrador.000\Desktop\PC\Hamming\obj\Debug\Hamming.Form1.resources
