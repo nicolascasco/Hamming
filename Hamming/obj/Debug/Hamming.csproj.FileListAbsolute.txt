@@ -6,4 +6,4 @@ C:\Users\Administrador.000\Desktop\PC\Hamming\obj\Debug\Hamming.Properties.Resou
 C:\Users\Administrador.000\Desktop\PC\Hamming\obj\Debug\Hamming.csproj.GenerateResource.Cache
 C:\Users\Administrador.000\Desktop\PC\Hamming\obj\Debug\Hamming.exe
 C:\Users\Administrador.000\Desktop\PC\Hamming\obj\Debug\Hamming.pdb
-C:\Users\Administrador.000\Desktop\PC\Hamming\obj\Debug\Hamming.Form1.resources
+C:\Users\Administrador.000\Desktop\PC\Hamming\obj\Debug\Hamming.Form.resources
